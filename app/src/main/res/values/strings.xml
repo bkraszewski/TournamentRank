@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Punkty PFS</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="form_junior">Junior/Damski</string>
+    <string name="form_calculate">Oblicz!</string>
+    <string name="players_count">Liczba Graczy</string>
+    <string name="tournamentRank">Ranga turnieju:</string>
+
+    <string name="app_form_screen">Typ turnieju</string>
+    <string name="app_results_screen">Wyniki</string>
+</resources>
