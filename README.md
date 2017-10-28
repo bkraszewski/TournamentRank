@@ -1,5 +1,8 @@
 # TournamentRank
 
+You can download app from Google Play:
+https://play.google.com/store/apps/details?id=com.bk.advance.tournamentrank
+
 Application primary use is to monitor number of points you can get from PFS (Polska Federacja Squasha) tournaments.
 Its adjusted for season 2017/2018, based on official guide:
 http://pfs.com.pl/pub/uploaddocs/zalacznik-08-obliczanieklasyturniejupunktowwturniejach.1377873429.pdf
@@ -15,5 +18,4 @@ On second screen results will be displayed:
 ![Alt text](https://github.com/bkraszewski/TournamentRank/blob/master/art/results.png "Results")
 
 
-You can download app from Google Play:
-[link]
+
