@@ -12,7 +12,7 @@ You have to specify number of players - full list will be displayed
 You can also check if its Open Tournament or Junior/Woman - points are calculated differently 
 
 On second screen results will be displayed:
-![Alt text](https://github.com/bkraszewski/TournamentRank/blob/master/art/main_screen.png "Main Screen")
+![Alt text](https://github.com/bkraszewski/TournamentRank/blob/master/art/results.png "Results")
 
 
 You can download app from Google Play:
